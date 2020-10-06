@@ -28,7 +28,7 @@ Barika is Java (Spring MVC) based web application developed to help a local comp
 
 The tool will be used by different teams in the company which include administrators, project managers and team members. Each project should be created by an administrator and assigned to a project manager. The project manager will create tasks and assign them to team members. 
 
- ![](Design-Doc-Images/img1.png).      ![](Design-Doc-Images/img2.png)
+ ![](Design-Doc-Images/img1.png)                                  ![](Design-Doc-Images/img2.png)
 
 
 
