@@ -11,7 +11,7 @@ The main idea is to allow project leaders to track and manage projects, tasks, a
 
 * 1.  Introduction 
 
-## Development team: Guillermo Barros, Luc Anthony Nkounkou 
+## Development team: Guillermo Barros, Luc Anthony 
 
 ## Reviewer: Hamit Pena
 
