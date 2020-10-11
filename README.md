@@ -1,10 +1,11 @@
-# Java-Spring-MVC-based-PM-app
+# Barika Project management software
+
+* Java-Spring-MVC-based-app
 
 A local company is needing a new tool to manage the multiple projects currently in development
 The main idea is to allow project leaders to track and manage projects, tasks, and team members. 
 
 
-* Barika Project management software
 
 * Project technical documentation
 
